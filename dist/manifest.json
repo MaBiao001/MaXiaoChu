@@ -1,0 +1,20 @@
+{
+  "name": "马小厨家宴",
+  "short_name": "马小厨",
+  "description": "马小厨家宴精选菜单",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#121212",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle"],
+  "lang": "zh-CN"
+}

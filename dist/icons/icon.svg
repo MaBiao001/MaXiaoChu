@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#121212"/>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="none" stroke="#2a2a2a" stroke-width="4"/>
+  <g transform="translate(256, 256)">
+    <!-- Pot body -->
+    <path d="M-80 -40 C-80 -80, -40 -100, 0 -100 C40 -100, 80 -80, 80 -40 L80 60 C80 90, 40 110, 0 110 C-40 110, -80 90, -80 60 Z" fill="none" stroke="#d4a373" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Pot rim -->
+    <ellipse cx="0" cy="-40" rx="80" ry="18" fill="none" stroke="#d4a373" stroke-width="10"/>
+    <!-- Steam left -->
+    <path d="M-30 -110 Q-40 -140, -25 -170" fill="none" stroke="#d4a373" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+    <!-- Steam middle -->
+    <path d="M0 -118 Q5 -150, 0 -180" fill="none" stroke="#d4a373" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+    <!-- Steam right -->
+    <path d="M30 -110 Q40 -140, 25 -170" fill="none" stroke="#d4a373" stroke-width="8" stroke-linecap="round" opacity="0.6"/>
+    <!-- Chopsticks -->
+    <line x1="45" y1="20" x2="100" y2="-20" stroke="#d4a373" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+    <line x1="50" y1="30" x2="105" y2="-10" stroke="#d4a373" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+  </g>
+</svg>
